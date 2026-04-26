@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--NephroThai OrElse Center-->
+<!--NephroThai or Center-->
 <!--database config-->
 <configs>
   <location>2</location>
-  <path>D:\VB2019\RestoreDatabaseTRT\RestoreDatabaseTRT\bin\Debug</path>
+  <path>D:\55351-01\1663TRTSystem3.4.0.0\Database</path>
   <filename>1663TRTDatabase.mdb</filename>
   <centerid>1663</centerid>
   <centername>สิรินคลินิกเวชกรรม</centername>
