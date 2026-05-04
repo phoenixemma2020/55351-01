@@ -1,2 +1,3 @@
-2026/05/02-10:21:51.523 10ec Creating DB D:\55351-01\1663TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\shared_proto_db since it was missing.
-2026/05/02-10:21:51.528 10ec Reusing MANIFEST D:\55351-01\1663TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/05/04-07:36:28.462 3330 Reusing MANIFEST D:\55351-01\1663TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/05/04-07:36:28.462 3330 Recovering log #3
+2026/05/04-07:36:28.463 3330 Reusing old log D:\55351-01\1663TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\shared_proto_db/000003.log 
